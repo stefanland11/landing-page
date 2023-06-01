@@ -102,3 +102,29 @@ a {
     width: 144px;
 }
 
+.section-three {
+    background-color: #e5e7eb;
+}
+
+.quote-container {
+    margin: 0 192px;
+    padding: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+ 
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.author {
+    align-self: flex-end;
+}
+
+
+
