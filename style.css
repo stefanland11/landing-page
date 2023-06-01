@@ -58,6 +58,7 @@ a {
     padding: 8px;
     border-radius: 8px;
     border: none;
+    height: 32px;
     width: 104px;
     color: #F9faf8;
 
@@ -74,6 +75,10 @@ a {
   border-radius: 25px;
   height: auto;
   width: 288px;
+}
+
+.section-two {
+    margin-bottom: 64px;
 }
 
 .info-header {
@@ -112,8 +117,6 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    
- 
 }
 
 .quote {
@@ -125,6 +128,49 @@ a {
 .author {
     align-self: flex-end;
 }
+
+.section-four {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #3882F6;
+    margin: 64px 192px;
+    padding: 32px;
+    border-radius: 24px;
+}
+
+
+.top-text {
+    color: #F9faf8;
+    margin-bottom: 0;
+}
+
+.bottom-text {
+    margin-top: 0;
+    color: #e5e7eb;
+    
+}
+
+
+
+.sign-up2 {
+    background-color: #3882F6;
+    border-radius: 8px;
+    border-color: #F9faf8;
+    height: 32px;
+    width: 104px;
+    color: #F9faf8;
+    align-self: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: #F9faf8;
+    padding: 8px;
+}
+
+
 
 
 
